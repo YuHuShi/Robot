@@ -19,7 +19,7 @@
 // <5=>8
 // <id> slcd_arch_com_num
 #ifndef CONF_SLCD_COM_NUM
-#define CONF_SLCD_COM_NUM 3
+#define CONF_SLCD_COM_NUM 5
 #endif
 
 // <o> Number of Segment Lines <1-44>
@@ -44,7 +44,7 @@
 // <3=>FOURTH
 // <id> slcd_arch_bias
 #ifndef CONF_SLCD_BIAS
-#define CONF_SLCD_BIAS 3
+#define CONF_SLCD_BIAS 2
 #endif
 
 #if CONF_SLCD_COM_NUM == 0 && CONF_SLCD_BIAS != 0

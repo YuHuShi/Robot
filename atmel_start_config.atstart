@@ -573,7 +573,7 @@ drivers:
       slcd_arch_advanced_settings: false
       slcd_arch_bbd: 2
       slcd_arch_bben: true
-      slcd_arch_bias: FOURTH
+      slcd_arch_bias: THIRD
       slcd_arch_char0_com_idx: 0
       slcd_arch_char0_mapping_table: 7 Segments Mapping Table
       slcd_arch_char0_seg_idx: 1
@@ -819,7 +819,7 @@ drivers:
       slcd_arch_cm_7segs_6_mapping_setting: '6'
       slcd_arch_cm_7segs_setting: false
       slcd_arch_cm_setting: false
-      slcd_arch_com_num: '4'
+      slcd_arch_com_num: '8'
       slcd_arch_contrast_adjust: 3.1725V
       slcd_arch_presc: '16'
       slcd_arch_prf: 2kHz
